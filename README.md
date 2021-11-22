@@ -2,7 +2,7 @@
 ## Aplicativo simples voltado para o controle de pessoas em um determinado ambiente.
 
 <h1 align="center">
-  <img title="Contador" src="./app/src/github/bannerapp.jpg" />
+  <img title="Contador" src="./img-readme/contador.png" />
 </h1>
 
 <p align="center">
@@ -16,7 +16,9 @@
 	  Contador de pessoas 🍨 Em construção...  🚧
 </h4>
 
-
+<h1 align="center">
+  <img title="Contador" src="./img-readme/contador.png" />
+</h1>
 
 
 ## 💻 Sobre o projeto
