@@ -8,6 +8,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-layout">Layout</a> • 
+ <a href="#-funcionalidade">Funcionalidades</a> • 	
  <a href="#-tecnologias">Tecnologias</a>  
 </p>
 
@@ -22,7 +23,7 @@ objetivo a criação de aplicativo simples em flutter utilizando conceitos bási
 
 ---
 
-## ⚙Funcionalidades
+## ⚙ Funcionalidades
 
 -Basicamente o projeto consiste de apenas uma tela que possui o indicador de número com dois botões, sendo para somar ou subtrair a quantidade de pessos que entram
 no estabelecimento, onde quando chegar o número de 20 pessoas aparece um alerta indicando que o estabelecimento esta lotado:
